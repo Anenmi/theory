@@ -8,7 +8,7 @@ ___
 ### Convolutional NN
 * [5.1 Conv NN - filter and pooling](https://github.com/Anenmi/theory/blob/main/DLS/5_1_seminar_filter_and_pooling.ipynb)
 * [5.2 Conv NN - module creating](https://github.com/Anenmi/theory/blob/main/DLS/5_2_seminar_creating_module.ipynb)
-* [5.3 Conv NN](https://github.com/Anenmi/theory/blob/main/DLS/5_3_seminar_convnet.ipynb)
+* [5.3 Conv NN - MNIST classification](https://github.com/Anenmi/theory/blob/main/DLS/5_3_seminar_convnet.ipynb)
 
 
 ## Introduction to Deep Learning (HSE, E.Sokolov):
